@@ -1,0 +1,11 @@
+F:\Documents\Projects\ResourceManage\ResourceManage\bin\Debug\netcoreapp2.1\ResourceManage.deps.json
+F:\Documents\Projects\ResourceManage\ResourceManage\bin\Debug\netcoreapp2.1\ResourceManage.runtimeconfig.json
+F:\Documents\Projects\ResourceManage\ResourceManage\bin\Debug\netcoreapp2.1\ResourceManage.runtimeconfig.dev.json
+F:\Documents\Projects\ResourceManage\ResourceManage\bin\Debug\netcoreapp2.1\ResourceManage.dll
+F:\Documents\Projects\ResourceManage\ResourceManage\bin\Debug\netcoreapp2.1\ResourceManage.pdb
+F:\Documents\Projects\ResourceManage\ResourceManage\obj\Debug\netcoreapp2.1\ResourceManage.csprojAssemblyReference.cache
+F:\Documents\Projects\ResourceManage\ResourceManage\obj\Debug\netcoreapp2.1\ResourceManage.csproj.CoreCompileInputs.cache
+F:\Documents\Projects\ResourceManage\ResourceManage\obj\Debug\netcoreapp2.1\ResourceManage.AssemblyInfoInputs.cache
+F:\Documents\Projects\ResourceManage\ResourceManage\obj\Debug\netcoreapp2.1\ResourceManage.AssemblyInfo.cs
+F:\Documents\Projects\ResourceManage\ResourceManage\obj\Debug\netcoreapp2.1\ResourceManage.dll
+F:\Documents\Projects\ResourceManage\ResourceManage\obj\Debug\netcoreapp2.1\ResourceManage.pdb

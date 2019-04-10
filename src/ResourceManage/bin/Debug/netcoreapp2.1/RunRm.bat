@@ -1,0 +1,1 @@
+dotnet ResourceManage.dll
